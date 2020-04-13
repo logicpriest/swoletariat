@@ -1,0 +1,4 @@
+= Pilates Lesson Plan
+include::attributes.adoc[]
+
+include::docs/assembly.adoc[]
